@@ -47,4 +47,5 @@ SnapURL is a URL shortener service built with Node.js. It allows you to shorten 
 - **Detailed Analytics:** Gain insights on your link performance.
 
 ## Happy coding....!!!!
+![snap](https://github.com/devsachinborse/url-shortning-fullstack---Nodejs/assets/111965224/0319ff3d-4876-42c0-8bd8-24b0356af573)
 
